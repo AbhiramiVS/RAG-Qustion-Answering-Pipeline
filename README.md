@@ -4,7 +4,7 @@ A Retrieval Augmented Generation Pipeline using Lang chain framework.
 
 ## To run:
 
-[ ]Install requirements using pip install -r requirements.txt
+[] Install requirements using pip install -r requirements.txt
 
 "data" folter is where we are adding the documents for RAG pipeline, so add your data in that folder. Currently, this pipeline is equipped to read pdf files, so please use pdf files.
 
