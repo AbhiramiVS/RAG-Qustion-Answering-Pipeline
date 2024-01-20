@@ -4,12 +4,11 @@ A Retrieval Augmented Generation Pipeline using Lang chain framework.
 
 ## To run:
 
-[] Install requirements using pip install -r requirements.txt
+- Install requirements using pip install -r requirements.txt
 
-"data" folter is where we are adding the documents for RAG pipeline, so add your data in that folder. Currently, this pipeline is equipped to read pdf files, so please use pdf files.
+- "data" folter is where we are adding the documents for RAG pipeline, so add your data in that folder. Currently, this pipeline is equipped to read pdf files, so please use pdf files.
 
-Run the code using
-python query_data.py
+- Run the code using python query_data.py
 
 To run this pipeline, you need to provide huggingface api token. Follow below site to get your api token.
 https://huggingface.co/docs/hub/security-tokens
